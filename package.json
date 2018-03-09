@@ -1,0 +1,16 @@
+{
+  "name": "myNote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gitbook serve ./content ./gh-pages",
+    "build": "gitbook build ./content ./gh-pages"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^1.1.0"
+  }
+}
