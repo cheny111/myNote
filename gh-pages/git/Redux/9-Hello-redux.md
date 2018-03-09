@@ -284,8 +284,3 @@ export default connect(mapStateToProps)(PostBody)
 
 这样一个完整的利用 React+Redux 的项目就成功创建
 
-### 参考
-
- - 项目地址：[点击进入](https://l552177239.github.io/react-redux)
-
- - Github：[点击进入](https://github.com/l552177239/react-redux)
